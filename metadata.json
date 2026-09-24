@@ -1,0 +1,6 @@
+{
+  "name": "Classic Snake Game",
+  "description": "A complete, standalone classic Snake game with retro-modern aesthetics, score tracking, responsive controls, and smooth grid movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
